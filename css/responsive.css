@@ -1,0 +1,107 @@
+@media (min-width:320px) and (max-width:574px){
+    #banner{
+        padding: 150px 0px;
+    }
+    .banner-logo{
+        margin-top: 50px;
+        justify-content: flex-start;
+    }
+    .banner-logo img{
+        width: 100%;
+    }
+    .banner__content h1{
+        font-size: 39px !important;
+    }
+    .banner__content p{
+        width: 100% !important;
+    }
+    .title p{
+        width: 100% !important;
+    }
+    /* .portfolio-content{
+        display: flex;
+        flex-direction: column;
+        align-items: center !important;
+        justify-content: center !important;
+    } */
+    .hover-text{
+        display: flex;
+        flex-direction: column;
+        align-items: center !important;
+        justify-content: center !important;
+    }
+    .customer-title h1{
+        width: 100%;
+    }
+    .customer-title p{
+        width: 100%;
+    }
+    .feedback img{
+        margin-right: 30px;
+    }
+
+}
+/*  */
+@media (min-width:575px) and (max-width:991px){
+    #banner{
+        padding: 150px 0px;
+    }
+    .banner-logo{
+        margin-top: 50px;
+        justify-content: flex-start;
+    }
+    .banner-logo img{
+        width: 100%;
+    }
+    .banner__content h1{
+        font-size: 39px !important;
+    }
+    .banner__content p{
+        width: 100% !important;
+    }
+    .title p{
+        width: 100% !important;
+    }
+    .hover-text{
+        display: flex;
+        flex-direction: column;
+        align-items: center !important;
+        justify-content: center !important;
+    }
+    .customer-title h1{
+        width: 100%;
+    }
+    .customer-title p{
+        width: 100%;
+    }
+}
+@media (min-width:992px) and (max-width:1199px){
+    .banner-logo{
+        margin-top: 50px;
+        justify-content: flex-start;
+    }
+    .banner-logo img{
+        width: 100%;
+    }
+    .banner__content h1{
+        font-size: 39px !important;
+    }
+    .banner__content p{
+        width: 100% !important;
+    }
+    .title p{
+        width: 100% !important;
+    }
+    .hover-text{
+        display: flex;
+        flex-direction: column;
+        align-items: center !important;
+        justify-content: center !important;
+    }
+    .customer-title h1{
+        width: 100%;
+    }
+    .customer-title p{
+        width: 100%;
+    }
+}
